@@ -39,6 +39,12 @@ const music_list = [
         artist : "Dance",
         music : "music/dance.mp3"
     },
+    {
+        img :"images/axwell.jpeg",
+        name : "Axwell more than you know",
+        artist : "Axwell more than you know",
+        music : "music/axwell Λ Ingrosso  - More Than You Know.mp3"
+    },
 
 ];
 
